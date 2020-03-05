@@ -13,6 +13,8 @@ Introduction
 
 Any suggestions on the package are welcome! For technical problems, please report to [Issues](https://github.com/Vivianstats/scLink/issues). For suggestions and comments on the method, please contact Vivian (<vivian.li@rutgers.edu>).
 
+You can also browse scLink's applications and results at its [web app](https://rutgersbiostat.shinyapps.io/sclink/).
+
 Installation
 ------------
 
