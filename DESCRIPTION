@@ -1,0 +1,16 @@
+Package: scLink
+Title: Inferring functional gene co-expression networks from single cell gene expression data
+Version: 0.0.1
+Authors@R: 
+    person(given = "Wei Vivian",
+           family = "Li",
+           role = c("aut", "cre"),
+           email = "vivian.li@rutgers.edu",
+           comment = c(ORCID = "0000-0002-2087-2709"))
+Description: The scLink method uses statistical network modeling to understand the co-expression relationships among genes and to construct functional gene networks from single-cell gene expression data.
+License: GPL-2
+Depends: parallel
+Imports: QUIC
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
