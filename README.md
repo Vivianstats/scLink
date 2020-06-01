@@ -2,9 +2,12 @@ scLink: Inferring gene networks from single-cell gene expression data
 ================
 Wei Vivian Li
 
+Rutgers Department of Biostatistics and Epidemiology
+
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 Latest News
 -----------
+> 2020/06/01: Version 1.0.0 released!
 
 > 2020/03/05: Version 0.0.9 released!
 
@@ -36,5 +39,5 @@ Quick start
 -   `sclink_cor` for calculating the co-expression matrix by scLink
 -   `sclink_net` for constructing the gene co-expression network by scLink
 
-For detailed usage, please refer to the package [manual](https://github.com/Vivianstats/scLink/blob/master/inst/docs/).
+For detailed usage, please refer to the package [manual](https://github.com/Vivianstats/scLink/blob/master/inst/docs/) or [vignette](https://github.com/Vivianstats/scLink/blob/master/inst/vignette/).
 
