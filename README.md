@@ -39,5 +39,5 @@ Quick start
 -   `sclink_cor` for calculating the co-expression matrix by scLink
 -   `sclink_net` for constructing the gene co-expression network by scLink
 
-For detailed usage, please refer to the package [manual](https://github.com/Vivianstats/scLink/blob/master/inst/docs/) or [vignette](https://github.com/Vivianstats/scLink/blob/master/inst/vignette/).
+For detailed usage, please refer to the package [manual](https://github.com/Vivianstats/scLink/blob/master/inst/docs/) or [vignette](https://github.com/Vivianstats/scLink/blob/master/inst/vignettes/).
 
