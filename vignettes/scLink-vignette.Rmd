@@ -2,7 +2,7 @@
 title: "Introduction to scLink"
 author: "Wei Vivian Li, Rutgers Department of Biostatistics and Epidemiology"
 date: "`r Sys.Date()`"
-output: rmarkdown::html_vignette
+output: rmarkdown::github_document
 #output: pdf_document
 vignette: >
   %\VignetteIndexEntry{scLink: Inferring Sparse Gene Co-expression Networks from Single Cell Expression Data}
