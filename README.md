@@ -21,13 +21,13 @@ You can also browse scLink's applications and results at its [web app](https://r
 Installation
 ------------
 
-The package is not on CRAN yet. For installation please use the following codes in `R`
-
+The package is available on CRAN. For installation please use the following codes in `R`
 ``` r
-install.packages("devtools")
-library(devtools)
-
-install_github("Vivianstats/scLink")
+install.packages("scLink")
+```
+In addition, please also install the QUIC package
+``` r
+install.packages("QUIC")
 ```
 
 Quick start
