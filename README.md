@@ -25,10 +25,7 @@ The package is available on CRAN. For installation please use the following code
 ``` r
 install.packages("scLink")
 ```
-In addition, please also install the QUIC package
-``` r
-install.packages("QUIC")
-```
+
 
 Quick start
 -----------
