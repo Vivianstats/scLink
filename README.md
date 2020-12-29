@@ -1,9 +1,11 @@
 scLink: Inferring gene networks from single-cell gene expression data
 ================
 Wei Vivian Li
-2020-12-28
+2020-12-29
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
+<img src="https://github.com/Vivianstats/scLink/raw/master/inst/docs/sclink.png" height="100" align="right" />
+
 [![](https://www.r-pkg.org/badges/version/scLink?color=green)](https://cran.r-project.org/package=scLink) [![](http://cranlogs.r-pkg.org/badges/grand-total/scLink?color=green)](https://cran.r-project.org/package=scLink)
 
 ## Latest News
