@@ -1,34 +1,32 @@
 scLink: Inferring gene networks from single-cell gene expression data
 ================
 Wei Vivian Li
-
-Rutgers Department of Biostatistics and Epidemiology
+2020-12-28
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
-Latest News
------------
+[![](https://www.r-pkg.org/badges/version/scLink?color=green)](https://cran.r-project.org/package=scLink) [![](http://cranlogs.r-pkg.org/badges/grand-total/scLink?color=green)](https://cran.r-project.org/package=scLink)
+
+## Latest News
+
 > 2020/06/01: Version 1.0.0 released!
 
 > 2020/03/05: Version 0.0.9 released!
 
-Introduction
-------------
+## Introduction
 
 Any suggestions on the package are welcome! For technical problems, please report to [Issues](https://github.com/Vivianstats/scLink/issues). For suggestions and comments on the method, please contact Vivian (<vivian.li@rutgers.edu>).
 
 You can also browse scLink's applications and results at its [web app](https://rutgersbiostat.shinyapps.io/sclink/).
 
-Installation
-------------
+## Installation
 
 The package is available on CRAN. For installation please use the following codes in `R`
+
 ``` r
 install.packages("scLink")
 ```
 
-
-Quick start
------------
+## Quick start
 
 `scLink` has three main functions:
 
@@ -37,4 +35,3 @@ Quick start
 -   `sclink_net` for constructing the gene co-expression network by scLink
 
 For detailed usage, please refer to the package [manual](https://github.com/Vivianstats/scLink/blob/master/inst/docs/) or [vignette](https://github.com/Vivianstats/scLink/blob/master/vignettes/).
-
